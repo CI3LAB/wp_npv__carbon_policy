@@ -1,0 +1,1 @@
+"MC_case_project_production__wp.rcp" is MC unit production project used in the research article "Tax or Subsidy? The Impact of Carbon Reduction Policy on Project Work Package Planning and the Time Value of Cost". The network comprises 63 distinct tasks, preserving the logical dependencies, standard durations, and work content.
