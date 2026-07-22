@@ -1,0 +1,936 @@
+236
+# inactive workload duration n_successors successors... work_type
+1	0	0	35	2	3	4	5	6	7	8	9	10	11	16	17	19	20	36	37	38	39	40	41	46	70	71	96	123	151	178	179	242	254	287	288	328	329	932	Front-end engineering and site mobilization
+1	0	0	2	12	13	Front-end engineering and site mobilization
+1	0	0	1	45	Statutory approval and control gate
+1	0	0	1	14	Statutory approval and control gate
+1	0	0	1	75	Statutory approval and control gate
+1	0	0	1	35	Statutory approval and control gate
+1	0	0	1	15	Statutory approval and control gate
+1	7	1	1	47	Statutory approval and control gate
+1	0	0	1	54	Statutory approval and control gate
+1	0	0	1	142	Statutory approval and control gate
+1	0	0	1	859	Inspection commissioning and handover
+0	20	7	2	13	21	Front-end engineering and site mobilization
+0	30	14	3	22	25	910	Front-end engineering and site mobilization
+0	34	19	1	23	Statutory and enabling works
+1	12	27	1	24	Statutory approval and control gate
+1	14	28	2	25	31	Statutory approval and control gate
+0	48	117	2	43	57	Statutory approval and control gate
+0	80	150	2	39	59	Statutory and enabling works
+0	96	250	0	Statutory approval and control gate
+1	10	28	1	32	Statutory approval and control gate
+0	67	26	1	26	Site installation and material delivery
+0	71	65	0	Main building and site works
+1	11	21	1	30	Statutory approval and control gate
+0	55	123	1	58	Statutory approval and control gate
+0	89	80	1	34	Site installation and material delivery
+0	51	7	3	27	28	29	Main building and site works
+1	0	0	0	Technical submission and design review
+1	0	0	0	Technical submission and design review
+1	0	0	1	126	Technical submission and design review
+1	14	30	1	75	Statutory approval and control gate
+1	11	33	1	34	Statutory approval and control gate
+1	6	7	0	Statutory approval and control gate
+0	90	80	1	117	Substructure excavation and foundation works
+0	90	80	2	64	103	Substructure excavation and foundation works
+0	49	57	1	60	Statutory and enabling works
+1	13	28	1	42	Statutory approval and control gate
+1	10	28	1	48	Statutory approval and control gate
+1	12	28	1	44	Statutory approval and control gate
+0	56	120	2	59	77	Inspection commissioning and handover
+0	57	120	1	78	Inspection commissioning and handover
+0	68	120	1	79	Inspection commissioning and handover
+1	9	7	6	61	72	93	98	102	376	Statutory approval and control gate
+0	25	60	2	57	86	Statutory approval and control gate
+1	8	7	1	104	Statutory approval and control gate
+1	7	13	2	50	51	Statutory approval and control gate
+1	0	0	1	134	Statutory approval and control gate
+0	50	14	1	55	MiC coordination and production preparation
+1	11	28	1	62	Statutory approval and control gate
+0	40	30	1	66	Inspection commissioning and handover
+1	6	7	2	51	56	Statutory approval and control gate
+0	36	30	2	56	67	Temporary works and lifting logistics
+0	77	38	1	81	Substructure excavation and foundation works
+0	76	38	1	104	Substructure excavation and foundation works
+1	14	30	1	69	Statutory approval and control gate
+1	7	15	1	65	Statutory approval and control gate
+1	12	30	2	67	74	Statutory approval and control gate
+1	12	30	2	73	86	Statutory approval and control gate
+1	10	30	2	76	81	Statutory approval and control gate
+0	33	60	1	77	Statutory approval and control gate
+1	10	14	1	63	Statutory approval and control gate
+0	76	14	1	68	Substructure excavation and foundation works
+1	7	7	1	81	Statutory approval and control gate
+1	14	30	2	88	89	Statutory approval and control gate
+1	13	30	1	87	Statutory approval and control gate
+1	11	30	1	90	Statutory approval and control gate
+0	24	31	1	95	Technical submission and design review
+1	9	7	1	74	Statutory approval and control gate
+0	64	10	3	83	84	85	Substructure excavation and foundation works
+1	5	7	1	82	Statutory approval and control gate
+1	0	0	1	80	Building services and MEP installation
+1	0	0	0	Building services and MEP installation
+0	73	21	1	97	Substructure excavation and foundation works
+1	10	28	1	100	Statutory approval and control gate
+1	10	30	4	102	103	114	151	Statutory approval and control gate
+0	38	30	1	101	Statutory and enabling works
+1	11	30	1	92	Statutory approval and control gate
+0	36	78	1	130	Statutory approval and control gate
+0	37	78	1	131	Statutory approval and control gate
+0	31	78	1	132	Statutory approval and control gate
+0	69	120	1	158	Inspection commissioning and handover
+0	76	14	1	92	Substructure excavation and foundation works
+1	11	30	1	104	Statutory approval and control gate
+0	78	30	2	84	107	Substructure excavation and foundation works
+0	68	30	1	85	Substructure excavation and foundation works
+0	76	30	1	106	Substructure excavation and foundation works
+1	10	10	1	91	Statutory approval and control gate
+1	9	7	2	98	228	Statutory approval and control gate
+1	12	28	1	110	Statutory approval and control gate
+1	11	28	1	111	Statutory approval and control gate
+1	14	28	1	112	Statutory approval and control gate
+1	10	30	1	114	Statutory approval and control gate
+0	125	184	1	188	Substructure excavation and foundation works
+0	90	60	5	94	127	128	129	213	Substructure excavation and foundation works
+0	150	250	1	129	Substructure excavation and foundation works
+0	47	61	1	133	Inspection commissioning and handover
+0	46	72	1	139	Technical submission and design review
+0	63	21	1	108	Substructure excavation and foundation works
+0	88	57	3	99	103	135	Substructure excavation and foundation works
+0	148	250	1	135	Substructure excavation and foundation works
+1	6	7	2	105	114	Statutory approval and control gate
+1	10	14	1	113	Statutory approval and control gate
+1	10	28	1	122	Statutory approval and control gate
+0	86	50	1	136	Substructure excavation and foundation works
+0	75	14	1	116	Substructure excavation and foundation works
+0	89	58	3	136	144	189	Substructure excavation and foundation works
+0	64	7	1	115	Substructure excavation and foundation works
+0	113	120	1	125	Substructure excavation and foundation works
+0	70	21	1	124	Substructure excavation and foundation works
+1	9	7	1	211	Statutory approval and control gate
+1	8	7	2	143	212	Statutory approval and control gate
+1	7	7	2	127	201	Statutory approval and control gate
+1	5	7	1	117	Statutory approval and control gate
+1	14	30	1	224	Statutory approval and control gate
+1	12	28	1	126	Statutory approval and control gate
+0	72	10	3	119	120	121	Substructure excavation and foundation works
+0	123	179	1	194	Substructure excavation and foundation works
+0	95	75	1	144	Substructure excavation and foundation works
+0	89	89	2	163	164	Substructure excavation and foundation works
+0	70	30	1	120	Substructure excavation and foundation works
+0	76	30	1	121	Substructure excavation and foundation works
+0	66	30	1	145	Substructure excavation and foundation works
+1	6	7	1	152	Statutory approval and control gate
+0	38	90	2	138	160	Statutory approval and control gate
+0	77	21	1	137	Substructure excavation and foundation works
+0	103	120	1	149	Substructure excavation and foundation works
+1	8	7	1	136	Statutory approval and control gate
+0	77	16	3	140	141	143	Substructure excavation and foundation works
+1	14	30	1	225	Statutory approval and control gate
+0	70	30	1	213	Substructure excavation and foundation works
+0	48	90	1	161	Statutory approval and control gate
+0	48	90	3	161	171	250	Statutory approval and control gate
+0	42	90	7	161	172	173	174	185	209	217	Statutory approval and control gate
+0	36	90	1	187	Statutory approval and control gate
+0	40	30	1	150	Statutory and enabling works
+0	90	90	1	177	Substructure excavation and foundation works
+0	101	121	1	189	Substructure excavation and foundation works
+0	67	21	1	147	Substructure excavation and foundation works
+0	84	90	1	160	Building services and MEP installation
+0	16	15	1	148	Technical submission and design review
+1	12	30	0	Inspection commissioning and handover
+0	72	30	1	202	Substructure excavation and foundation works
+0	51	60	1	167	Statutory and enabling works
+0	76	17	2	153	154	Substructure excavation and foundation works
+0	80	61	1	169	Substructure excavation and foundation works
+0	72	7	1	146	Substructure excavation and foundation works
+0	64	10	3	155	156	157	Substructure excavation and foundation works
+0	78	30	0	Substructure excavation and foundation works
+1	12	30	1	573	Statutory approval and control gate
+0	109	116	1	193	Substructure excavation and foundation works
+1	10	14	1	159	Statutory approval and control gate
+0	31	60	1	176	Statutory approval and control gate
+0	93	107	1	166	Substructure excavation and foundation works
+1	10	30	1	212	Inspection commissioning and handover
+0	70	30	1	215	Substructure excavation and foundation works
+0	78	30	1	156	Substructure excavation and foundation works
+0	68	30	1	157	Substructure excavation and foundation works
+0	74	30	0	Substructure excavation and foundation works
+0	116	180	3	709	710	852	Building services and MEP installation
+1	14	30	1	249	Statutory approval and control gate
+1	0	0	1	162	Technical submission and design review
+0	34	30	1	175	Technical submission and design review
+1	0	0	2	165	186	Building services and MEP installation
+1	13	30	1	211	Inspection commissioning and handover
+0	72	30	1	214	Substructure excavation and foundation works
+0	86	60	2	186	834	Building services and MEP installation
+0	95	91	1	195	Substructure excavation and foundation works
+1	10	14	1	170	Statutory approval and control gate
+1	10	30	1	184	Inspection commissioning and handover
+0	33	60	0	Statutory approval and control gate
+1	14	30	3	184	208	216	Statutory approval and control gate
+1	10	28	2	180	187	Statutory approval and control gate
+1	13	28	2	181	187	Statutory approval and control gate
+1	11	28	2	182	187	Statutory approval and control gate
+1	14	28	2	183	187	Statutory approval and control gate
+1	10	30	1	187	Statutory approval and control gate
+1	12	28	0	Statutory approval and control gate
+0	118	151	1	224	Substructure excavation and foundation works
+1	0	0	1	179	Technical submission and design review
+0	76	180	1	229	Statutory approval and control gate
+1	6	7	0	Statutory approval and control gate
+1	9	7	0	Statutory approval and control gate
+1	7	7	0	Statutory approval and control gate
+1	5	7	0	Statutory approval and control gate
+1	13	28	2	185	191	Statutory approval and control gate
+1	13	28	1	192	Statutory approval and control gate
+1	0	0	1	486	Building services and MEP installation
+0	108	60	1	203	MiC factory production and logistics
+0	70	7	1	190	Substructure excavation and foundation works
+0	76	29	2	196	197	Substructure excavation and foundation works
+0	64	16	1	199	Substructure excavation and foundation works
+1	9	7	0	Statutory approval and control gate
+1	9	7	0	Statutory approval and control gate
+0	68	30	2	201	202	Substructure excavation and foundation works
+0	69	7	1	200	Substructure excavation and foundation works
+0	32	30	1	204	Technical submission and design review
+0	83	76	2	197	220	Substructure excavation and foundation works
+0	95	91	1	220	Substructure excavation and foundation works
+1	13	30	1	208	Inspection commissioning and handover
+0	32	60	0	Statutory approval and control gate
+0	63	16	1	207	Substructure excavation and foundation works
+1	13	28	1	379	Statutory approval and control gate
+1	13	28	1	379	Statutory approval and control gate
+0	78	3	1	205	MiC factory production and logistics
+0	68	24	3	213	214	215	Substructure excavation and foundation works
+0	33	60	1	426	Statutory approval and control gate
+1	12	30	1	216	Inspection commissioning and handover
+0	31	60	0	Statutory approval and control gate
+1	10	28	2	209	218	Statutory approval and control gate
+1	10	28	1	219	Statutory approval and control gate
+1	13	28	0	Statutory approval and control gate
+1	10	28	1	377	Statutory approval and control gate
+1	14	28	1	378	Statutory approval and control gate
+1	14	30	1	221	Statutory approval and control gate
+1	11	30	1	377	Statutory approval and control gate
+1	13	30	1	378	Statutory approval and control gate
+1	11	28	2	217	222	Statutory approval and control gate
+1	11	28	1	223	Statutory approval and control gate
+1	6	7	0	Statutory approval and control gate
+1	6	7	0	Statutory approval and control gate
+0	76	16	1	226	Substructure excavation and foundation works
+0	66	30	1	227	Substructure excavation and foundation works
+1	7	7	0	Statutory approval and control gate
+1	7	7	0	Statutory approval and control gate
+1	11	28	2	225	228	Inspection commissioning and handover
+1	11	30	2	435	529	Statutory approval and control gate
+0	81	61	2	233	238	Substructure excavation and foundation works
+0	79	22	1	230	Substructure excavation and foundation works
+1	10	28	1	231	Statutory approval and control gate
+0	114	180	1	485	Building services and MEP installation
+0	93	68	0	Substructure excavation and foundation works
+1	6	7	1	233	Statutory approval and control gate
+1	0	0	1	233	Substructure excavation and foundation works
+0	72	10	2	235	239	Substructure excavation and foundation works
+1	11	30	1	249	Inspection commissioning and handover
+0	79	48	1	236	Substructure excavation and foundation works
+0	88	53	1	237	Substructure excavation and foundation works
+0	82	57	1	239	Substructure excavation and foundation works
+0	34	60	0	Statutory approval and control gate
+0	68	7	3	240	241	243	Substructure excavation and foundation works
+0	62	10	1	241	Substructure excavation and foundation works
+0	58	7	2	243	246	Substructure excavation and foundation works
+1	0	0	1	245	Building services and MEP installation
+0	72	7	3	244	246	247	Substructure excavation and foundation works
+0	66	10	1	246	Substructure excavation and foundation works
+0	56	90	1	270	Inspection commissioning and handover
+0	62	7	1	247	Substructure excavation and foundation works
+0	59	7	2	248	251	Substructure excavation and foundation works
+0	70	10	1	251	Substructure excavation and foundation works
+1	12	28	2	250	262	Statutory approval and control gate
+1	12	28	1	263	Statutory approval and control gate
+0	63	7	2	252	256	Substructure excavation and foundation works
+0	74	10	1	253	Substructure excavation and foundation works
+0	70	7	2	256	258	Substructure excavation and foundation works
+1	0	0	1	255	Building services and MEP installation
+0	57	120	1	292	Statutory approval and control gate
+0	67	7	2	257	258	Substructure excavation and foundation works
+0	62	10	1	258	Substructure excavation and foundation works
+0	74	7	1	259	Substructure excavation and foundation works
+1	0	0	1	260	Substructure excavation and foundation works
+0	57	4	1	261	Substructure excavation and foundation works
+0	72	7	1	264	Substructure excavation and foundation works
+1	8	7	1	297	Statutory approval and control gate
+1	8	7	1	333	Statutory approval and control gate
+0	68	2	3	265	266	267	Substructure excavation and foundation works
+0	70	30	1	266	Substructure excavation and foundation works
+0	58	3	2	267	268	Substructure excavation and foundation works
+0	74	10	2	268	269	Substructure excavation and foundation works
+0	65	2	1	269	Substructure excavation and foundation works
+0	63	5	1	271	Substructure excavation and foundation works
+0	138	250	1	332	Building services and MEP installation
+0	70	6	1	272	Substructure excavation and foundation works
+0	60	7	1	273	Substructure excavation and foundation works
+0	67	5	1	274	Substructure excavation and foundation works
+0	72	1	1	275	Substructure excavation and foundation works
+0	70	2	1	276	Substructure excavation and foundation works
+0	66	21	1	279	Substructure excavation and foundation works
+1	0	0	1	278	Building services and MEP installation
+0	89	180	1	424	Inspection commissioning and handover
+0	69	8	1	280	Substructure excavation and foundation works
+0	59	8	1	281	Substructure excavation and foundation works
+0	66	8	1	282	Substructure excavation and foundation works
+0	73	8	1	283	Substructure excavation and foundation works
+0	68	3	1	284	Substructure excavation and foundation works
+0	64	21	1	285	Substructure excavation and foundation works
+0	67	8	1	289	Substructure excavation and foundation works
+0	20	30	1	306	Technical submission and design review
+1	0	0	1	290	Envelope temporary works and access systems
+1	0	0	1	291	Envelope temporary works and access systems
+0	74	8	1	293	Substructure excavation and foundation works
+0	29	45	1	313	Technical submission and design review
+0	36	60	1	319	Technical submission and design review
+0	95	120	0	Building services and MEP installation
+0	64	8	1	294	Substructure excavation and foundation works
+0	71	8	1	295	Substructure excavation and foundation works
+0	61	8	1	296	Substructure excavation and foundation works
+0	66	4	1	297	Substructure excavation and foundation works
+0	74	5	2	298	303	Substructure excavation and foundation works
+0	67	5	2	299	305	Substructure excavation and foundation works
+0	72	39	1	301	Substructure excavation and foundation works
+0	81	55	1	331	Substructure excavation and foundation works
+0	84	55	2	302	331	Substructure excavation and foundation works
+0	118	142	2	303	359	Substructure excavation and foundation works
+0	74	10	4	304	307	308	309	Substructure excavation and foundation works
+0	67	11	1	305	Substructure excavation and foundation works
+0	82	28	2	307	314	Substructure excavation and foundation works
+1	8	14	1	312	Statutory approval and control gate
+0	60	1	1	308	Substructure excavation and foundation works
+0	78	25	2	309	317	Substructure excavation and foundation works
+0	67	29	2	310	321	Substructure excavation and foundation works
+0	73	32	1	311	Substructure excavation and foundation works
+0	81	40	1	314	Substructure excavation and foundation works
+0	39	4	1	861	Temporary works and lifting logistics
+0	25	15	1	320	Technical submission and design review
+0	69	1	2	315	316	Substructure excavation and foundation works
+0	64	6	1	316	Substructure excavation and foundation works
+0	59	1	2	317	324	Substructure excavation and foundation works
+0	67	2	2	318	323	Substructure excavation and foundation works
+0	61	7	1	321	Substructure excavation and foundation works
+0	27	14	1	326	Technical submission and design review
+1	9	15	0	Statutory approval and control gate
+0	72	4	2	322	325	Substructure excavation and foundation works
+0	68	11	1	323	Substructure excavation and foundation works
+0	57	2	2	325	333	Substructure excavation and foundation works
+0	74	10	1	327	Substructure excavation and foundation works
+0	62	4	2	333	345	Substructure excavation and foundation works
+1	9	14	1	342	Statutory approval and control gate
+0	64	10	1	339	Substructure excavation and foundation works
+1	0	0	1	330	External works landscape and site installation
+0	76	150	1	374	Inspection commissioning and handover
+0	66	150	1	375	Inspection commissioning and handover
+0	67	4	1	340	Substructure excavation and foundation works
+1	0	0	1	337	Building services and MEP installation
+0	76	30	2	335	344	Superstructure and transfer works
+0	116	134	1	346	Substructure excavation and foundation works
+0	122	134	1	336	Superstructure and transfer works
+0	156	250	1	344	Superstructure and transfer works
+0	146	250	1	338	Building services and MEP installation
+0	152	250	1	432	Building services and MEP installation
+1	0	0	1	341	Substructure excavation and foundation works
+0	57	4	0	Substructure excavation and foundation works
+0	60	10	1	343	Substructure excavation and foundation works
+0	34	60	1	357	Statutory approval and control gate
+0	70	18	1	345	Substructure excavation and foundation works
+0	82	30	1	354	Superstructure and transfer works
+0	58	5	3	347	348	349	Substructure excavation and foundation works
+0	78	48	1	350	Substructure excavation and foundation works
+0	83	48	1	348	Substructure excavation and foundation works
+0	73	5	2	349	353	Substructure excavation and foundation works
+0	73	29	2	351	355	Substructure excavation and foundation works
+0	89	69	0	Substructure excavation and foundation works
+0	81	69	1	352	Substructure excavation and foundation works
+0	88	69	3	353	365	367	Substructure excavation and foundation works
+0	81	58	2	355	362	Substructure excavation and foundation works
+0	90	30	1	359	Superstructure and transfer works
+0	62	7	2	356	358	Substructure excavation and foundation works
+0	75	14	1	358	Substructure excavation and foundation works
+1	14	30	1	577	Statutory approval and control gate
+0	69	7	1	362	Substructure excavation and foundation works
+0	80	30	1	367	Superstructure and transfer works
+1	0	0	1	361	Envelope temporary works and access systems
+0	41	60	1	382	Inspection commissioning and handover
+0	58	1	2	363	364	Substructure excavation and foundation works
+0	70	6	1	364	Substructure excavation and foundation works
+1	7	1	0	Inspection commissioning and handover
+0	70	6	2	366	369	Substructure excavation and foundation works
+0	68	21	1	368	Substructure excavation and foundation works
+1	10	30	6	371	372	377	378	379	462	Inspection commissioning and handover
+0	82	29	1	369	Substructure excavation and foundation works
+0	60	6	1	370	Substructure excavation and foundation works
+0	67	6	0	Substructure excavation and foundation works
+0	67	12	0	Substructure excavation and foundation works
+0	64	12	0	Substructure excavation and foundation works
+0	66	5	1	380	Substructure excavation and foundation works
+1	11	30	1	454	Statutory approval and control gate
+1	12	30	1	625	Statutory approval and control gate
+0	70	10	1	385	Substructure excavation and foundation works
+0	73	21	2	389	418	Substructure excavation and foundation works
+0	65	24	1	391	Substructure excavation and foundation works
+0	66	24	1	392	Substructure excavation and foundation works
+0	63	5	1	381	Substructure excavation and foundation works
+0	72	10	1	387	Substructure excavation and foundation works
+1	12	21	1	395	Statutory approval and control gate
+1	0	0	1	384	Superstructure and transfer works
+0	52	90	1	440	Inspection commissioning and handover
+0	58	7	1	388	Substructure excavation and foundation works
+0	22	30	1	402	Technical submission and design review
+0	62	10	1	390	Substructure excavation and foundation works
+0	65	7	2	393	394	Substructure excavation and foundation works
+0	90	50	3	416	418	445	Substructure excavation and foundation works
+0	68	10	2	396	397	Substructure excavation and foundation works
+0	95	73	3	392	430	436	Substructure excavation and foundation works
+0	85	73	2	431	437	Substructure excavation and foundation works
+0	65	14	2	394	404	Substructure excavation and foundation works
+0	82	34	1	404	Substructure excavation and foundation works
+0	26	60	1	423	Statutory approval and control gate
+0	66	10	2	397	401	Substructure excavation and foundation works
+0	73	3	1	401	Substructure excavation and foundation works
+0	70	150	1	501	Inspection commissioning and handover
+0	22	30	1	412	Technical submission and design review
+0	24	30	1	413	Technical submission and design review
+0	71	7	1	403	Substructure excavation and foundation works
+1	11	30	1	416	Statutory approval and control gate
+0	60	3	1	405	Substructure excavation and foundation works
+0	72	14	1	408	Substructure excavation and foundation works
+0	70	2	2	406	407	Substructure excavation and foundation works
+0	68	16	1	407	Substructure excavation and foundation works
+0	64	13	1	409	Substructure excavation and foundation works
+0	58	3	1	411	Substructure excavation and foundation works
+0	66	1	2	410	434	Substructure excavation and foundation works
+0	60	10	2	417	420	Substructure excavation and foundation works
+0	66	5	1	419	Substructure excavation and foundation works
+1	11	30	1	430	Statutory approval and control gate
+1	11	30	1	431	Statutory approval and control gate
+0	70	30	3	415	435	439	Substructure excavation and foundation works
+0	112	120	1	439	Substructure excavation and foundation works
+0	23	4	1	785	Temporary works and lifting logistics
+0	74	10	2	420	421	Substructure excavation and foundation works
+0	68	33	2	445	446	Substructure excavation and foundation works
+0	73	5	0	Substructure excavation and foundation works
+0	64	3	1	421	Substructure excavation and foundation works
+0	64	10	1	422	Substructure excavation and foundation works
+0	70	10	2	425	428	Substructure excavation and foundation works
+1	11	30	1	453	Statutory approval and control gate
+0	115	180	0	Building services and MEP installation
+0	66	7	2	427	429	Substructure excavation and foundation works
+0	104	180	0	MiC coordination and production preparation
+0	63	5	2	428	434	Substructure excavation and foundation works
+0	58	3	1	429	Substructure excavation and foundation works
+0	71	1	0	Substructure excavation and foundation works
+0	24	4	1	755	Temporary works and lifting logistics
+0	25	4	1	728	Temporary works and lifting logistics
+1	0	0	1	433	Building services and MEP installation
+1	0	0	1	441	Building services and MEP installation
+0	65	5	3	438	443	447	Substructure excavation and foundation works
+1	10	30	1	751	Statutory approval and control gate
+0	94	30	1	457	MiC module lifting and installation
+0	82	30	1	456	MiC module lifting and installation
+0	69	37	1	443	Substructure excavation and foundation works
+0	34	60	1	474	Statutory approval and control gate
+0	37	60	1	475	Statutory approval and control gate
+0	148	250	1	442	Building services and MEP installation
+0	144	250	1	464	Building services and MEP installation
+0	70	28	2	444	458	Substructure excavation and foundation works
+0	81	32	1	447	Substructure excavation and foundation works
+0	74	33	1	465	Substructure excavation and foundation works
+0	60	6	1	451	Substructure excavation and foundation works
+0	62	3	2	448	450	Substructure excavation and foundation works
+0	80	27	1	450	Substructure excavation and foundation works
+0	80	22	0	Substructure excavation and foundation works
+0	76	23	2	458	461	Substructure excavation and foundation works
+0	67	6	0	Substructure excavation and foundation works
+0	28	30	1	468	Technical submission and design review
+0	90	150	0	Envelope temporary works and access systems
+0	109	180	1	626	External works landscape and site installation
+0	28	30	1	470	Technical submission and design review
+0	84	14	2	467	473	MiC module lifting and installation
+0	81	21	2	469	479	MiC module lifting and installation
+0	58	2	2	459	460	Substructure excavation and foundation works
+0	68	4	1	460	Substructure excavation and foundation works
+0	65	2	2	461	462	Substructure excavation and foundation works
+0	58	1	1	462	Substructure excavation and foundation works
+0	80	20	2	463	471	Superstructure and transfer works
+0	101	100	1	471	Superstructure and transfer works
+1	0	0	1	466	Building services and MEP installation
+0	90	22	1	476	MiC module lifting and installation
+0	140	250	1	734	Building services and MEP installation
+0	91	14	1	472	MiC module lifting and installation
+1	10	14	1	473	Statutory approval and control gate
+0	86	14	1	477	MiC module lifting and installation
+1	10	14	1	479	Statutory approval and control gate
+0	94	40	1	514	Superstructure and transfer works
+0	81	14	1	480	MiC module lifting and installation
+0	31	6	6	478	483	484	485	486	902	Temporary works and lifting logistics
+0	68	30	1	557	Substructure excavation and foundation works
+1	11	30	1	508	Statutory approval and control gate
+0	79	21	1	495	MiC module lifting and installation
+0	76	14	1	487	MiC module lifting and installation
+0	144	240	1	494	Architectural finishes and builder works
+0	30	6	6	481	497	498	499	500	901	Temporary works and lifting logistics
+0	88	13	1	496	MiC module lifting and installation
+0	142	240	1	507	Architectural finishes and builder works
+0	26	30	1	520	Technical submission and design review
+1	0	0	1	491	Building services and MEP installation
+1	0	0	1	488	Building services and MEP installation
+1	0	0	1	489	Building services and MEP installation
+1	0	0	1	490	Building services and MEP installation
+0	83	14	1	509	MiC module lifting and installation
+0	131	197	2	498	741	Building services and MEP installation
+0	129	197	1	492	Building services and MEP installation
+0	130	197	1	493	Building services and MEP installation
+0	140	227	1	497	Building services and MEP installation
+0	146	250	1	499	Building services and MEP installation
+0	146	250	1	500	Building services and MEP installation
+0	134	240	1	511	Architectural finishes and builder works
+0	83	12	1	510	MiC module lifting and installation
+0	77	12	1	513	MiC module lifting and installation
+1	0	0	1	505	Building services and MEP installation
+1	0	0	1	502	Building services and MEP installation
+1	0	0	1	503	Building services and MEP installation
+1	0	0	1	504	Building services and MEP installation
+0	117	180	1	506	Building services and MEP installation
+0	132	211	2	537	762	Building services and MEP installation
+0	130	211	1	538	Building services and MEP installation
+0	131	211	2	539	833	Building services and MEP installation
+0	141	241	1	536	Building services and MEP installation
+0	148	250	1	522	Building services and MEP installation
+0	132	240	1	515	Architectural finishes and builder works
+0	97	120	1	641	External works and footbridge installation
+0	90	13	1	518	MiC module lifting and installation
+0	90	12	2	517	526	MiC module lifting and installation
+0	141	240	1	512	Architectural finishes and builder works
+0	131	240	1	519	Architectural finishes and builder works
+0	84	12	1	521	MiC module lifting and installation
+0	84	40	3	535	555	592	Superstructure and transfer works
+0	139	240	1	516	Architectural finishes and builder works
+0	146	240	1	523	Architectural finishes and builder works
+0	80	12	1	524	MiC module lifting and installation
+0	79	12	1	525	MiC module lifting and installation
+0	138	240	3	548	549	550	Architectural finishes and builder works
+1	10	14	1	526	Statutory approval and control gate
+0	74	12	1	527	MiC module lifting and installation
+0	127	180	1	534	Building services and MEP installation
+0	136	240	3	561	562	563	Architectural finishes and builder works
+0	87	12	1	531	MiC module lifting and installation
+0	86	12	1	532	MiC module lifting and installation
+0	29	6	6	530	536	537	538	539	900	Temporary works and lifting logistics
+0	81	12	1	533	MiC module lifting and installation
+0	26	30	1	552	Technical submission and design review
+1	10	28	0	Statutory approval and control gate
+0	140	240	1	546	Architectural finishes and builder works
+0	77	12	1	544	MiC module lifting and installation
+0	76	12	1	545	MiC module lifting and installation
+0	88	12	1	547	MiC module lifting and installation
+0	120	180	1	638	Building services and MEP installation
+0	82	15	2	551	567	Superstructure and transfer works
+1	0	0	1	543	Building services and MEP installation
+1	0	0	1	540	Building services and MEP installation
+1	0	0	1	541	Building services and MEP installation
+1	0	0	1	542	Building services and MEP installation
+0	125	204	2	602	821	Building services and MEP installation
+0	123	204	1	603	Building services and MEP installation
+0	124	204	2	604	832	Building services and MEP installation
+0	135	234	1	605	Building services and MEP installation
+0	84	12	1	553	MiC module lifting and installation
+0	83	12	1	554	MiC module lifting and installation
+0	147	240	1	559	Architectural finishes and builder works
+0	78	12	7	571	623	734	735	736	737	770	MiC module lifting and installation
+0	145	240	1	549	Architectural finishes and builder works
+0	135	240	1	550	Architectural finishes and builder works
+0	142	240	1	684	Architectural finishes and builder works
+0	72	15	1	568	Superstructure and transfer works
+1	10	14	1	567	Statutory approval and control gate
+0	74	12	1	565	MiC module lifting and installation
+0	90	12	1	566	MiC module lifting and installation
+0	70	8	2	556	564	Substructure excavation and foundation works
+0	74	39	1	564	Substructure excavation and foundation works
+0	80	22	2	558	580	Substructure excavation and foundation works
+0	79	44	1	580	Substructure excavation and foundation works
+0	137	240	1	560	Architectural finishes and builder works
+0	144	240	1	569	Architectural finishes and builder works
+0	143	240	1	562	Architectural finishes and builder works
+0	133	240	1	563	Architectural finishes and builder works
+0	140	240	1	720	Architectural finishes and builder works
+0	60	8	1	572	Substructure excavation and foundation works
+0	81	12	1	582	MiC module lifting and installation
+0	80	12	7	627	664	757	758	759	760	799	MiC module lifting and installation
+0	28	6	6	573	601	602	603	604	914	Temporary works and lifting logistics
+0	79	15	1	570	Superstructure and transfer works
+0	134	240	3	586	587	588	Architectural finishes and builder works
+0	74	30	1	624	Superstructure and transfer works
+0	79	2	1	574	MiC module lifting and installation
+0	67	8	1	595	Substructure excavation and foundation works
+0	117	180	1	610	Architectural finishes and builder works
+0	76	2	2	575	576	MiC module lifting and installation
+0	86	3	1	576	MiC module lifting and installation
+0	82	1	1	578	MiC module lifting and installation
+0	76	90	0	Envelope temporary works and access systems
+0	80	2	2	579	583	MiC module lifting and installation
+0	73	3	1	583	MiC module lifting and installation
+0	60	6	2	581	599	Substructure excavation and foundation works
+0	67	6	2	596	600	Substructure excavation and foundation works
+0	88	12	1	613	MiC module lifting and installation
+0	86	1	1	584	MiC module lifting and installation
+0	84	2	2	585	589	MiC module lifting and installation
+0	77	3	1	589	MiC module lifting and installation
+0	141	240	1	587	Architectural finishes and builder works
+0	131	240	1	588	Architectural finishes and builder works
+0	138	240	1	746	Architectural finishes and builder works
+0	73	1	1	590	MiC module lifting and installation
+0	71	2	2	591	594	MiC module lifting and installation
+0	81	3	1	594	MiC module lifting and installation
+0	86	90	1	593	Building services and MEP installation
+0	94	90	1	731	Building services and MEP installation
+0	77	1	1	597	MiC module lifting and installation
+0	74	8	1	618	Substructure excavation and foundation works
+0	81	44	1	599	Substructure excavation and foundation works
+0	75	2	2	598	609	MiC module lifting and installation
+0	85	3	1	609	MiC module lifting and installation
+0	63	6	1	600	Substructure excavation and foundation works
+0	70	6	0	Substructure excavation and foundation works
+1	0	0	1	858	Building services and MEP installation
+1	0	0	1	606	Building services and MEP installation
+1	0	0	1	607	Building services and MEP installation
+1	0	0	1	608	Building services and MEP installation
+0	139	208	1	770	Building services and MEP installation
+0	123	208	2	735	857	Building services and MEP installation
+0	148	238	2	736	871	Building services and MEP installation
+0	149	238	2	737	871	Building services and MEP installation
+0	81	1	1	611	MiC module lifting and installation
+0	124	180	1	631	Architectural finishes and builder works
+0	79	2	2	612	614	MiC module lifting and installation
+0	72	3	1	614	MiC module lifting and installation
+0	78	12	1	628	MiC module lifting and installation
+0	85	1	1	615	MiC module lifting and installation
+0	83	2	2	616	617	MiC module lifting and installation
+0	76	3	1	617	MiC module lifting and installation
+0	72	1	1	619	MiC module lifting and installation
+0	84	66	1	751	Substructure excavation and foundation works
+0	87	2	2	620	621	MiC module lifting and installation
+0	80	4	1	621	MiC module lifting and installation
+0	76	1	1	622	MiC module lifting and installation
+0	83	1	3	623	627	629	MiC module lifting and installation
+0	94	37	8	678	684	685	698	699	700	709	725	MiC module lifting and installation
+0	75	12	1	645	Superstructure and transfer works
+0	117	180	1	704	External works landscape and site installation
+0	137	240	1	704	External works landscape and site installation
+0	81	2	2	629	630	MiC module lifting and installation
+0	85	12	1	649	MiC module lifting and installation
+0	78	2	1	633	MiC module lifting and installation
+0	71	3	1	635	MiC module lifting and installation
+0	114	180	1	632	Architectural finishes and builder works
+0	121	180	1	650	Architectural finishes and builder works
+0	84	1	1	634	MiC module lifting and installation
+0	82	2	1	637	MiC module lifting and installation
+0	75	3	1	640	MiC module lifting and installation
+0	34	30	1	683	Technical submission and design review
+0	71	1	1	639	MiC module lifting and installation
+0	113	180	1	678	Building services and MEP installation
+0	86	2	2	642	643	MiC module lifting and installation
+0	79	3	1	644	MiC module lifting and installation
+0	56	30	1	690	External works and footbridge installation
+0	75	1	1	643	MiC module lifting and installation
+0	73	2	1	646	MiC module lifting and installation
+0	83	3	1	648	MiC module lifting and installation
+0	82	12	1	661	Superstructure and transfer works
+0	79	1	1	647	MiC module lifting and installation
+0	77	2	1	651	MiC module lifting and installation
+0	87	3	1	653	MiC module lifting and installation
+0	75	12	7	663	713	817	818	819	820	847	MiC module lifting and installation
+0	111	180	3	668	669	670	Architectural finishes and builder works
+0	83	1	1	652	MiC module lifting and installation
+0	81	2	1	654	MiC module lifting and installation
+0	74	3	1	656	MiC module lifting and installation
+0	70	1	1	655	MiC module lifting and installation
+0	85	2	1	657	MiC module lifting and installation
+0	78	3	1	659	MiC module lifting and installation
+0	74	1	1	658	MiC module lifting and installation
+0	71	1	1	660	MiC module lifting and installation
+0	82	2	1	662	MiC module lifting and installation
+0	78	1	1	662	MiC module lifting and installation
+0	72	12	1	681	Superstructure and transfer works
+0	85	1	2	663	664	MiC module lifting and installation
+0	76	2	1	665	MiC module lifting and installation
+0	95	35	8	698	716	720	721	722	723	739	753	MiC module lifting and installation
+0	73	2	2	666	667	MiC module lifting and installation
+0	83	3	1	667	MiC module lifting and installation
+0	79	1	1	671	MiC module lifting and installation
+0	118	180	1	669	Architectural finishes and builder works
+0	125	180	1	670	Architectural finishes and builder works
+0	115	180	1	841	Architectural finishes and builder works
+0	77	2	2	672	675	MiC module lifting and installation
+0	87	3	1	675	MiC module lifting and installation
+0	34	30	1	719	Technical submission and design review
+0	71	14	0	Substructure excavation and foundation works
+0	83	1	1	676	MiC module lifting and installation
+0	81	2	2	677	680	MiC module lifting and installation
+0	74	3	1	680	MiC module lifting and installation
+1	0	0	2	679	682	Inspection commissioning and handover
+0	106	120	1	682	Building services and MEP installation
+0	70	1	1	686	MiC module lifting and installation
+0	78	10	1	715	Superstructure and transfer works
+1	14	30	2	716	727	Inspection commissioning and handover
+1	12	30	1	725	Statutory approval and control gate
+0	69	60	0	Architectural finishes and builder works
+0	78	90	3	721	797	812	Envelope temporary works and access systems
+0	85	2	2	687	688	MiC module lifting and installation
+0	78	3	1	688	MiC module lifting and installation
+0	74	1	1	689	MiC module lifting and installation
+0	72	2	2	691	695	MiC module lifting and installation
+0	53	1	1	692	External works and footbridge installation
+0	82	3	1	695	MiC module lifting and installation
+0	95	123	1	693	External works and footbridge installation
+0	45	2	1	694	External works and footbridge installation
+0	103	124	1	729	External works and footbridge installation
+0	78	1	1	696	MiC module lifting and installation
+0	76	2	2	697	701	MiC module lifting and installation
+0	86	3	1	701	MiC module lifting and installation
+0	60	30	2	732	767	External works and footbridge installation
+0	61	60	1	722	Envelope temporary works and access systems
+0	70	90	2	723	812	Envelope temporary works and access systems
+0	82	1	1	702	MiC module lifting and installation
+0	80	2	2	703	705	MiC module lifting and installation
+0	73	3	1	705	MiC module lifting and installation
+0	128	240	1	934	External works landscape and site installation
+0	86	1	1	706	MiC module lifting and installation
+0	84	2	2	707	708	MiC module lifting and installation
+0	77	3	1	708	MiC module lifting and installation
+0	73	1	1	711	MiC module lifting and installation
+1	8	14	2	710	724	Inspection commissioning and handover
+0	98	104	1	724	Building services and MEP installation
+0	80	1	2	713	771	MiC module lifting and installation
+0	91	88	1	751	Substructure excavation and foundation works
+0	88	30	7	742	746	747	749	750	761	778	MiC module lifting and installation
+0	32	30	1	745	Technical submission and design review
+0	76	10	1	726	Superstructure and transfer works
+1	0	0	2	717	718	Inspection commissioning and handover
+0	105	120	1	718	Building services and MEP installation
+1	14	30	2	727	754	Inspection commissioning and handover
+1	12	30	1	753	Statutory approval and control gate
+0	84	60	0	Architectural finishes and builder works
+0	70	90	3	747	822	825	Envelope temporary works and access systems
+0	71	60	1	749	Envelope temporary works and access systems
+0	80	90	2	750	825	Envelope temporary works and access systems
+0	54	90	2	739	885	Inspection commissioning and handover
+0	24	4	2	728	797	Front-end engineering and site mobilization
+0	82	10	1	738	Superstructure and transfer works
+0	72	60	2	742	798	Building services and MEP installation
+0	32	4	1	733	Temporary works and lifting logistics
+0	56	1	1	730	External works and footbridge installation
+0	48	2	1	765	External works and footbridge installation
+1	13	45	1	786	Inspection commissioning and handover
+0	56	30	1	769	External works and footbridge installation
+0	48	30	1	764	Envelope temporary works and access systems
+1	0	0	1	757	Building services and MEP installation
+1	0	0	1	758	Building services and MEP installation
+1	0	0	1	759	Building services and MEP installation
+1	0	0	1	760	Building services and MEP installation
+0	72	10	1	748	Superstructure and transfer works
+1	10	14	2	740	752	Inspection commissioning and handover
+0	94	104	1	752	Building services and MEP installation
+0	70	30	1	762	Building services and MEP installation
+1	0	0	2	743	744	Inspection commissioning and handover
+0	104	120	1	744	Building services and MEP installation
+1	14	30	2	754	779	Inspection commissioning and handover
+1	12	30	1	778	Statutory approval and control gate
+0	82	60	0	Architectural finishes and builder works
+0	80	90	3	843	845	850	Envelope temporary works and access systems
+0	80	10	1	756	Superstructure and transfer works
+0	64	60	1	840	Envelope temporary works and access systems
+0	72	90	2	842	850	Envelope temporary works and access systems
+1	12	30	0	Inspection commissioning and handover
+0	50	90	2	761	884	Inspection commissioning and handover
+0	23	4	2	755	822	Front-end engineering and site mobilization
+0	71	60	2	779	823	Building services and MEP installation
+0	31	4	1	764	Temporary works and lifting logistics
+0	70	10	6	771	815	855	866	867	868	Superstructure and transfer works
+1	0	0	1	817	Building services and MEP installation
+1	0	0	1	818	Building services and MEP installation
+1	0	0	1	767	Building services and MEP installation
+1	0	0	1	820	Building services and MEP installation
+1	7	14	2	763	777	Inspection commissioning and handover
+0	64	30	1	821	Building services and MEP installation
+0	90	104	1	777	Building services and MEP installation
+0	58	30	1	790	Envelope temporary works and access systems
+0	46	1	1	766	External works and footbridge installation
+0	55	2	1	807	External works and footbridge installation
+0	86	90	2	768	854	Building services and MEP installation
+0	128	182	1	819	Building services and MEP installation
+0	62	30	2	813	829	External works and footbridge installation
+1	0	0	2	772	799	Building services and MEP installation
+0	77	2	1	773	MiC module lifting and installation
+0	80	60	1	801	Building services and MEP installation
+0	84	2	1	774	MiC module lifting and installation
+0	75	2	2	775	776	Superstructure and transfer works
+0	74	4	1	776	MiC module lifting and installation
+0	65	2	1	780	Superstructure and transfer works
+0	46	90	2	837	883	Inspection commissioning and handover
+0	22	4	2	785	845	Front-end engineering and site mobilization
+0	87	60	2	798	846	Building services and MEP installation
+0	79	2	2	781	782	Superstructure and transfer works
+0	78	3	1	782	MiC module lifting and installation
+0	68	1	1	783	Superstructure and transfer works
+0	66	2	2	784	787	Superstructure and transfer works
+0	82	3	1	787	MiC module lifting and installation
+0	30	4	1	790	Temporary works and lifting logistics
+0	90	90	2	828	862	Building services and MEP installation
+0	72	1	1	788	Superstructure and transfer works
+0	70	2	2	789	791	Superstructure and transfer works
+0	86	3	1	791	MiC module lifting and installation
+0	50	30	1	864	Envelope temporary works and access systems
+0	76	1	1	792	Superstructure and transfer works
+0	74	2	2	793	794	Superstructure and transfer works
+0	73	3	1	794	MiC module lifting and installation
+0	80	1	1	795	Superstructure and transfer works
+0	78	2	2	796	800	Superstructure and transfer works
+0	77	3	1	800	MiC module lifting and installation
+0	14	4	0	Front-end engineering and site mobilization
+1	11	30	2	823	874	Inspection commissioning and handover
+1	0	0	2	801	847	Building services and MEP installation
+0	67	1	1	802	Superstructure and transfer works
+0	73	60	1	848	Building services and MEP installation
+0	65	2	2	803	804	Superstructure and transfer works
+0	81	3	1	804	MiC module lifting and installation
+0	71	1	1	805	Superstructure and transfer works
+0	68	1	2	806	808	Superstructure and transfer works
+0	85	2	1	808	MiC module lifting and installation
+0	59	1	1	809	External works and footbridge installation
+0	75	1	1	810	Superstructure and transfer works
+0	51	2	1	826	External works and footbridge installation
+0	72	2	1	814	MiC module lifting and installation
+0	30	15	2	824	910	Front-end engineering and site mobilization
+0	44	15	2	825	911	Envelope temporary works and access systems
+0	68	30	1	831	External works and footbridge installation
+0	78	1	1	815	MiC module lifting and installation
+0	85	35	7	835	837	840	841	842	843	860	Superstructure and transfer works
+0	32	30	1	839	Technical submission and design review
+1	0	0	1	866	Building services and MEP installation
+1	0	0	1	855	Building services and MEP installation
+1	0	0	1	829	Building services and MEP installation
+1	0	0	1	868	Building services and MEP installation
+0	74	30	1	857	Building services and MEP installation
+0	13	4	0	Front-end engineering and site mobilization
+1	11	30	2	835	873	Inspection commissioning and handover
+0	23	15	2	849	910	Front-end engineering and site mobilization
+0	54	15	2	850	911	Envelope temporary works and access systems
+0	49	1	1	827	External works and footbridge installation
+0	58	2	0	External works and footbridge installation
+0	82	45	1	862	Building services and MEP installation
+0	92	90	2	867	887	Building services and MEP installation
+0	23	15	1	851	Inspection commissioning and handover
+0	58	30	3	856	869	870	External works and footbridge installation
+0	76	30	1	833	Building services and MEP installation
+0	66	30	1	834	Building services and MEP installation
+0	74	30	1	871	Building services and MEP installation
+1	0	0	2	836	838	Inspection commissioning and handover
+0	93	91	1	838	Building services and MEP installation
+1	8	11	2	844	852	Inspection commissioning and handover
+1	11	16	2	846	853	Inspection commissioning and handover
+1	12	30	1	860	Statutory approval and control gate
+0	74	60	0	Envelope temporary works and access systems
+0	80	60	0	Architectural finishes and builder works
+0	86	99	1	898	Envelope temporary works and access systems
+0	77	99	3	856	896	898	Envelope temporary works and access systems
+0	85	101	1	852	Building services and MEP installation
+0	12	4	0	Front-end engineering and site mobilization
+1	11	30	2	853	872	Inspection commissioning and handover
+1	0	0	1	848	Building services and MEP installation
+0	83	60	1	858	Building services and MEP installation
+0	16	15	2	897	910	Front-end engineering and site mobilization
+0	47	15	2	898	911	Envelope temporary works and access systems
+1	15	45	0	Inspection commissioning and handover
+0	60	90	1	904	Inspection commissioning and handover
+0	81	45	1	880	Building services and MEP installation
+0	66	30	1	887	External works landscape and site installation
+1	0	0	0	Building services and MEP installation
+0	74	60	0	Envelope temporary works and access systems
+0	66	30	2	859	865	Building services and MEP installation
+0	76	60	0	Building services and MEP installation
+0	27	14	1	865	Inspection commissioning and handover
+0	21	4	2	861	896	Front-end engineering and site mobilization
+0	29	4	1	864	Temporary works and lifting logistics
+0	56	1	1	863	Building services and MEP installation
+0	63	1	2	872	875	Building services and MEP installation
+0	60	30	0	Envelope temporary works and access systems
+0	50	60	2	888	899	Inspection commissioning and handover
+1	0	0	1	876	Building services and MEP installation
+1	0	0	1	869	Building services and MEP installation
+1	0	0	0	Building services and MEP installation
+0	72	60	2	870	908	Building services and MEP installation
+0	79	60	0	Building services and MEP installation
+0	70	30	1	888	Building services and MEP installation
+1	0	0	2	873	876	Building services and MEP installation
+1	0	0	2	874	877	Building services and MEP installation
+1	0	0	2	875	878	Building services and MEP installation
+0	64	32	1	892	Building services and MEP installation
+0	66	14	3	877	881	883	Building services and MEP installation
+0	56	14	3	878	882	884	Building services and MEP installation
+0	63	14	2	879	885	Building services and MEP installation
+0	79	42	1	881	Building services and MEP installation
+1	11	30	1	892	Inspection commissioning and handover
+0	67	14	1	882	Building services and MEP installation
+0	57	14	1	886	Building services and MEP installation
+0	21	14	2	884	889	Inspection commissioning and handover
+0	28	14	2	885	890	Inspection commissioning and handover
+0	35	14	4	889	890	891	904	Inspection commissioning and handover
+1	13	42	1	893	Inspection commissioning and handover
+0	56	30	1	908	External works landscape and site installation
+1	10	14	1	895	Inspection commissioning and handover
+0	22	14	2	890	900	Inspection commissioning and handover
+0	29	14	2	891	901	Inspection commissioning and handover
+0	19	14	2	902	912	Inspection commissioning and handover
+1	0	0	1	893	Building services and MEP installation
+0	58	10	2	903	904	Building services and MEP installation
+1	12	30	1	913	Inspection commissioning and handover
+0	44	60	2	899	923	Inspection commissioning and handover
+0	11	4	0	Front-end engineering and site mobilization
+0	26	15	1	910	Front-end engineering and site mobilization
+0	57	15	1	911	Envelope temporary works and access systems
+1	8	14	2	909	923	Inspection commissioning and handover
+0	36	5	1	905	Temporary works and lifting logistics
+0	37	5	1	906	Temporary works and lifting logistics
+0	38	5	1	907	Temporary works and lifting logistics
+0	60	14	0	Building services and MEP installation
+0	31	14	1	912	Inspection commissioning and handover
+0	43	7	1	906	Envelope temporary works and access systems
+0	50	7	1	907	Envelope temporary works and access systems
+0	40	7	1	917	Envelope temporary works and access systems
+0	62	30	1	921	External works landscape and site installation
+1	0	0	2	913	921	Inspection commissioning and handover
+0	32	15	0	Temporary works and lifting logistics
+0	51	15	2	915	916	Envelope temporary works and access systems
+0	32	14	1	914	Inspection commissioning and handover
+1	0	0	1	918	Inspection commissioning and handover
+0	35	5	1	917	Temporary works and lifting logistics
+0	52	14	2	916	919	External works landscape and site installation
+0	59	14	1	919	External works landscape and site installation
+0	53	7	0	Envelope temporary works and access systems
+1	8	1	1	920	Inspection commissioning and handover
+1	0	0	1	922	Inspection commissioning and handover
+0	26	30	1	926	Inspection commissioning and handover
+1	7	1	1	925	Inspection commissioning and handover
+1	0	0	1	924	Inspection commissioning and handover
+1	7	14	1	928	Inspection commissioning and handover
+1	0	0	1	928	Inspection commissioning and handover
+1	8	1	1	927	Inspection commissioning and handover
+1	5	1	1	928	Inspection commissioning and handover
+1	0	0	1	928	Inspection commissioning and handover
+1	0	0	3	929	930	931	Inspection commissioning and handover
+0	26	30	2	930	933	Inspection commissioning and handover
+0	34	30	2	931	933	Inspection commissioning and handover
+1	12	30	1	933	Inspection commissioning and handover
+1	0	0	0	Inspection commissioning and handover
+1	0	0	1	934	Inspection commissioning and handover
+0	138	250	0	External works landscape and site installation
